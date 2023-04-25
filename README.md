@@ -1,6 +1,7 @@
 👋🏾 Hi, my name is Jesthine. 
 
-I am currently learning Javascript and I am pursuing a Full-Stack roadmap 👩🏽‍💻
+Hello, I'm Jesthine Disla Vasquez, a teacher turn coder, with a passion for using technology. 
+I'm a fullstack developer dedicated to and designing modern apps. 👩🏽‍💻
 
 📍Based in Jersey City, NJ
 
