@@ -1,7 +1,8 @@
 👋🏾 Hi, my name is Jesthine. 
 
-Hello, I'm Jesthine Disla Vasquez, a teacher turn coder, with a passion for using technology. 
-I'm a fullstack developer dedicated to and designing modern apps. 👩🏽‍💻
+Hello, I'm Jesthine Disla Vasquez, a teacher turned coder, with a passion for using technology to solve problems and create innovative and user-friendy web applications. I love nature, my cat named Pluto, and going to music concerts.
+
+I'm a Frontend / Fullstack developer dedicated to learning, problem-solving, and designing modern applications. I have experience creating dynamic single-page applications with responsive UIs with clean functionality. 👩🏽‍💻
 
 📍Based in Jersey City, NJ
 
