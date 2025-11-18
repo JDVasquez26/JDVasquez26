@@ -1,10 +1,33 @@
-👋🏾 Hi, my name is Jesthine. 
+<h1>👋🏾 Hi, my name is Jesthine.</h1>
 
-Hello, I'm Jesthine Disla Vasquez, a teacher turned coder, with a passion for using technology to solve problems and create innovative and user-friendy web applications. I love nature, my cat named Pluto, and going to music concerts.
+<h2>👩🏽‍💻 Cybersecurity Projects</h2>
 
-I'm a Frontend / Fullstack developer dedicated to learning, problem-solving, and designing modern applications. I have experience creating dynamic single-page applications with responsive UIs with clean functionality. 👩🏽‍💻
+-
 
-📍Based in Jersey City, NJ
+-
+
+-
+
+
+<h2>📄 Certifications</h2>
+
+CompTIA Network+
+ 
+CompTIA Security+
+
+Certified Incident Handler (GCIH)
+       
+Security Essentials Certification (GSEC)
+
+Foundational Cybersecurity Technologies (GFACT)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JesthineDislaVasquez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/jesthine-disla/
 
 <!---
 JDVasquez26/JDVasquez26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
