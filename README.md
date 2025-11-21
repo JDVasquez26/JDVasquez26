@@ -1,4 +1,4 @@
-<h1>👋🏾 Hi, my name is Jesthine, a SANS Cyber Academy alumna pursuing my passion for information security.</h1>
+<h1>👋🏾 Hi, my name is Jesthine.</h1>
 
 <h2>🎯 Objective </h2>
 I’m interested in cybersecurity, information security, IT, and OSINT. By building my knowledge through projects and experiences, I am aiming to start my cybersecurity career as a Tier 1 Security Operations Center (SOC) Analyst.
